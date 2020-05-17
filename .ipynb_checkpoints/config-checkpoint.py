@@ -1,0 +1,3 @@
+yelp_api_key = "qjcL1NNqA1x3wjDHlxalyy4lvfeMz9sFI5yi34aaszWd0VBWaQ9hWMdwZY2wTaok360OFyAF8vHHooJHKittKbxndd0XHv-FwEui6ZvVxr9AS-pxKIv5wTF_g8O0XnYx"
+
+gkey = "AIzaSyA1OXbpZJ7AIotiqOLfawzaMWrIn8pfs7I"
