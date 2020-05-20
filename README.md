@@ -42,4 +42,9 @@ Baldwin Hills has a higher crime rate, leaving Van Nuys and North Hills as most 
 
 ## Income Distribution in Los Angeles County
 
+ * Red :Income  less than $45K	      
+ * Yellow: Income range: $46K- $62K	  
+ * Blue: Income range: $63K- $84K	
+ * Green: Income greater than $85K
+
 ![](Visualizations_Outputs/income_by_neighborhood.png)
