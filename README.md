@@ -42,4 +42,4 @@ Baldwin Hills has a higher crime rate, leaving Van Nuys and North Hills as most 
 
 ## Income Distribution in Los Angeles County
 
-![](Visualization_Outputs/income_by_neighborhood.png)
+![](Visualizations_Outputs/income_by_neighborhood.png)
