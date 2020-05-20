@@ -36,5 +36,6 @@ The following questions were posed to help us determine which specific cities we
 * Starbucks locations are a milestone of gentrification, as they show up only in middle income areas. 
 * Yoga studio count based on postal code should not be considered an indicator for potential gentrification. It does however strongly correlate to higher income neighborhoods. 
 * Zip codes most suitable for abnormal housing price changes are Van Nuys, North Hills, and Baldwin Hills
-Baldwin Hills has a higher crime rate, leaving Van Nuys and North Hills as most likely to be gentrified
+Baldwin Hills has a higher crime rate, leaving Van Nuys and North Hills as most likely to be gentrified.
+
 
