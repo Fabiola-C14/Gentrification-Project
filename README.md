@@ -35,7 +35,7 @@ The following questions were posed to help us determine which specific cities we
 * Cities with a higher income population seems to cluster around the beach areas, and low income population is clustered near downtown LA/110 freeway.
 * Starbucks locations are a milestone of gentrification, as they show up only in middle income areas. 
 * Yoga studio count based on postal code should not be considered an indicator for potential gentrification. It does however strongly correlate to higher income neighborhoods. 
-* Zip codes most suitable for abnormal housing price changes are Van Nuys, North Hill##s, and Baldwin Hills
+* Zip codes most suitable for abnormal housing price changes are Van Nuys, North Hills, and Baldwin Hills
 Baldwin Hills has a higher crime rate, leaving Van Nuys and North Hills as most likely to be gentrified.
 
 
